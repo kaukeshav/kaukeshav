@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Keshav Kaushik</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **ServiceNow BCM Product**
+- 🔭 I’m currently working on development of **NEW ServiceNow Products(ESG)**
 - 🌱 I’m currently learning **AI & ML**
 - 🤝 I’m looking for help with **Frontend Projects**
 - 💬 Ask me about **React, Vue, & JS**
